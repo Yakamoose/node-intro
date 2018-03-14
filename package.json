@@ -1,0 +1,27 @@
+{
+  "name": "test-intro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^4.0.1"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thinkful-Ed/node-intro-to-unit-testing.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Thinkful-Ed/node-intro-to-unit-testing/issues"
+  },
+  "homepage": "https://github.com/Thinkful-Ed/node-intro-to-unit-testing#readme",
+  "description": ""
+}
